@@ -73,9 +73,45 @@ $ Is /nonexistent/directory
 
 *Working Directory : Again the Working directory is unchanged.*
 
-*Output Explanation : Due to nonexistence of this directory ```/nonexistent/directory``` it does not exist.*
+*Output : Due to nonexistence of this directory ```/nonexistent/directory``` it does not exist.*
 
 ## ```cat``` Command
+
+
+```
+$ cat
+```
+
+<img width="388" alt="Screenshot 2024-04-10 at 6 29 40 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/13fc804b-e04b-48a1-a5c3-8817f5876114">
+
+
+*Working Directory: This command also does not change the working direcotry at all.*
+
+*Output : When the cat command is used without any parameters, its behavior is determined by the input entered by the user.*
+
+
+```
+$ cat/path/to/dir
+```
+
+<img width="504" alt="Screenshot 2024-04-10 at 6 37 10 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/9c951730-760b-4efd-be5b-284f79361e48">
+
+*Working Directory: there is no change in the working directory again.*
+
+*Output : When this command is performed, the contents of the specified file are shown.*
+
+
+```
+$ cat/nonexistent/dir
+```
+
+<img width="475" alt="Screenshot 2024-04-10 at 6 31 44 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/c8c13c50-3086-4e0c-8f8c-3367e7bc8667">
+
+*Working Directory: The directory remains unchanged again.*
+
+*Output Explanation: Because the  ```/nonexistent/file.txt``` does not exist, this causes an error in the code.*
+
+
 
 
 
