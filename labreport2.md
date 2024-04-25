@@ -70,4 +70,26 @@ class Server {
 }
 ~~~
 
+<img width="285" alt="Screenshot 2024-04-24 at 9 34 40 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/50ae3660-30b6-42c7-af45-f3791f789c08">
 
+
+<img width="265" alt="Screenshot 2024-04-24 at 9 34 33 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/e6ddd576-3773-434e-834b-a2c54b753e1f">
+
+
+*The first screenshot depicts the invocation of the main function and handleRequest. The URL serves as the parameter for invoking the handleRequest method, whereas port 5001 is used as the argument for invoking the main function. Each time a new message is contributed via the website or after the survey is concluded, the value of s is appended and a new line is added. Furthermore, each time the program moves to the next line, the new message is added to the original empty String s. The new message is placed at index 1 of the path array.
+One pertinent area of study is chat history, where the add message request is initially an empty string. Upon sending the add message request, the chat history field undergoes a transformation from an empty string to "avani.. namaste/n". When I make the second add message request, the chat history box is modified from "avani.. namaste/n" to "avani.. namaste/n".Aditya: Whats up/n?*
+
+# Part 2
+
+
+<img width="559" alt="Screenshot 2024-04-24 at 9 47 26 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/df041bab-bdbc-4cc5-9161-5c28cded082c">
+
+
+
+
+<img width="191" alt="Screenshot 2024-04-24 at 9 47 40 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/30ce4d57-aaca-4dde-9267-76fd38524426">
+
+
+
+
+<img width="188" alt="Screenshot 2024-04-24 at 9 47 51 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/72a61458-2af9-4e7e-a187-14ed903982af">
