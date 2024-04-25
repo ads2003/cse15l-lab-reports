@@ -93,3 +93,9 @@ One pertinent area of study is chat history, where the add message request is in
 
 
 <img width="188" alt="Screenshot 2024-04-24 at 9 47 51 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/72a61458-2af9-4e7e-a187-14ed903982af">
+
+
+# Part 3 (what I Learnt)
+
+*Building your initial webpage from the ground up. what symptoms and bugs are in software. The most important thing I learned was about junit testing, which is quite helpful for CSE programming assignments.*
+
