@@ -38,7 +38,7 @@ public class TestReverseInPlace {
 <img width="556" alt="Screenshot 2024-05-08 at 3 06 35 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/7664e73c-58cb-4940-9182-e569f5c6b82e">
 
 
-Before fixing bug
+*Before fixing bug*
 
 ```
 static void reverseInPlace(int[] arr) {
@@ -49,7 +49,7 @@ static void reverseInPlace(int[] arr) {
 ```
 
 
-After fixing bug
+*After fixing bug*
 
 ```
 static void reverseInPlace(int[] arr) {
@@ -60,3 +60,5 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 
+
+## *Part 2(Researching commands)*
