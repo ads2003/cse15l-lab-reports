@@ -2,7 +2,7 @@
 
 ## *Part 1 – Debugging Scenario*
 
-My goal is to create a procedure that takes an array as input and produces a new array containing every single element from the original array. Rather than publishing the first element in the original array, my code starts printing each element from the second array and skips the first one. I believe there may be an issue with my for loop.This is a snapshot of code.
+My goal is to create a procedure that takes an array as input and produces a new array containing every single element from the original array. Rather than publishing the first element in the original array, my code starts printing each element from the second array and skips the first one. I believe there may be an issue with my for loop.This is a screenshot of code.
 
 **Screenshot of the Code:**
 
