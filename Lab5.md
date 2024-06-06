@@ -6,11 +6,12 @@ My goal is to create a procedure that takes an array as input and produces a new
 
 **Screenshot of the Code:**
 
-<img width="1728" alt="Screenshot 2024-03-11 at 6 17 17 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/ed1ff64d-e668-4eae-963f-518f405b5c3e">
+<img width="834" alt="Screenshot 2024-06-05 at 6 20 39 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/d3e61bdd-8f30-423f-9d4a-22c8c2fc8bc7">
+
 
 **Symptoms**:
 
-<img width="570" alt="Screenshot 2024-03-12 at 8 34 22 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/14c7e24b-ef8e-4d73-8846-71b1cd714ceb">
+<img width="458" alt="Screenshot 2024-06-05 at 6 20 49 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/3cedd9f1-e3b6-4943-95cc-62b9f74414a2">
 
 
 ## *response of the TA:*
@@ -26,15 +27,14 @@ Thank you for the suggestions. Upon closer inspection, I discovered that the cod
 
 ## *The files and the directory structures:*
 
-<img width="305" alt="Screenshot 2024-03-12 at 8 30 49 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/8211a47d-4929-4dbe-b773-0263c0c50ea0">
+<img width="287" alt="Screenshot 2024-06-05 at 6 20 54 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/e0b38b0f-913e-4533-b95e-3118875e2f36">
 
 
 ## *The Correct Code:*
 
-<img width="493" alt="Screenshot 2024-03-12 at 8 33 38 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/8c2357d3-b7b6-4cba-a636-2b1a26510546">
+<img width="562" alt="Screenshot 2024-06-05 at 6 21 13 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/71709f9a-bc06-4956-bc08-15d9a91597db">
 
-
-<img width="739" alt="Screenshot 2024-03-12 at 8 32 27 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/55b98f1a-df42-45a4-8c0f-3f1d6589117d">
+<img width="477" alt="Screenshot 2024-06-05 at 6 21 02 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/ddf080fb-b0d4-474c-912e-828ab8ce1f21">
 
 
 ## *Description of the edit code :*
