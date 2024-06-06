@@ -4,7 +4,7 @@
 
 <img width="617" alt="Screenshot 2024-05-22 at 4 42 32 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/d716ec35-e5b4-4970-9aa1-3ced8ae3849d">
 
-*I used the ssh command to enter ieng6. ssh <space> ads007@ieng6.ucsd.edu <enter> Keys pushed: <enter> and <space>*
+*I used the ssh command to enter ieng6. ssh <space> ads007@ieng6.ucsd.edu <enter> Keys pushed: < enter > and <space>*
 
 ## *Clone forking the repository*
 
